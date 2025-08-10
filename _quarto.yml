@@ -5,9 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Shanshan Li"
-  site-url: https://lianyujun.github.io
+  site-url: https://shanshanli.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://kkgithub.com/Coral133/Coral133.github.io
   repo-actions: [edit, issue]
   
   page-footer:
